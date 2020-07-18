@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi,im currently working on bettering my coding skills by practicing more coding excercises. I want to be a full a full-stack developer one day and looking forward to create more meaningful software solutions in the future. Hopefully i can come up with a better readme for my profile later 😄😄😄😄
+You can call me Frimps or Jo. Im currently working on bettering my coding skills by practicing more coding excercises. I want to be a full a full-stack developer and looking forward to creating meaningful software solutions in the near future. Hopefully i can come up with a better readme for my profile later 😄😄😄😄
